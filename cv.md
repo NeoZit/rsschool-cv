@@ -5,7 +5,7 @@
 ## About me
 My goal is to become a full-stack developer. My strengths include self-discipline and diligence. From work experience is the fulfillment of orders on the freelance layout
 ## Skills
-- HTML5, CSS3
+- HTML5, CSS3, Flexbox
 - Tailwind CSS
 - JS Fundamentals
 - Figma, Photoshop
